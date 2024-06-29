@@ -3,9 +3,9 @@ function generateRandomNumber(num) {
 }
 
 const messages = {
-    joke: ['', '', ''],
-    inspire: ['', '', ''],
-    advice: ['', '', ''],
+    joke: ['I told my wife she should embrace her mistakes. She gave me a hug.', 'The past, present, and future walk into a bar. It was tense.', 'I used to play piano by ear, but now I use my hands.'],
+    inspire: ['It takes courage to grow up and become who you really are.', 'Your self-worth is determined by you.', 'Attitude is a little thing that makes a big difference.'],
+    advice: ['Listen more than you speak.', 'Your life is your responsibility.', 'Everyone is afraid.'],
 }
 
 let personalMessage = [];
