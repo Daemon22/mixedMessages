@@ -13,4 +13,8 @@
     - VSCode
 
 ##***How to Use***
-    Open the index.html file in your browser to use the app.
+    You need to install Node.js in order to use this app.
+
+    Navigate to the mixedMessages directory in your Terminal then run the following command: 'node scripts.js'
+
+    View the results in the console.
